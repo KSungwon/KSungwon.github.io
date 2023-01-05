@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "김성원"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "너가 코딩에 목표를 안둬서 자존감이 떨어지는거야"
   location         : "Somewhere"
   email            :
   links:
